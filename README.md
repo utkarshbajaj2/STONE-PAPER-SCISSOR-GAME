@@ -1,4 +1,13 @@
 # STONE-PAPER-SCISSOR-GAME
+
+
+
+
+
+
+
+
+
 import random
 list=["stone","paper","scissor","E"]
 print("WELCOME TO THE SPS GAME")
